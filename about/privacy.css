@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Open-Sans';
+    src: url('../font/Open_Sans/OpenSans-Regular.ttf');
+    font-weight: 900;
+}
+
+.top {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    min-height: 100vh;
+    background-color: #dfe4ea;
+}
+
+.container {
+    margin: 12px;
+    padding: 18px;
+    position: relative;
+    border-radius: 2px;
+    background-color: white;
+    font-family: 'Open-Sans';
+}
+
+.category {
+    top: 60px;
+    position: sticky;
+    height: max-content;
+    width: 240px;
+    margin: 12px;
+    padding: 8px;
+    background-color: white;
+    font-family: 'Open-Sans';
+}
+
+.category h1 {
+    font-size: 24px;
+    background: cornflowerblue;
+    color: white;
+    padding: 6px 8px;
+}
+
+.category a {
+    border-left: 3px solid green;
+    display: block;
+    margin: 6px;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: black;
+    transition: letter-spacing 0.3s linear;
+}
+
+.category a:hover {
+    color: white;
+    background: green;
+    letter-spacing: 1px;
+}
+
+.footer-media {
+    margin-left: 0!important;
+}
+
+.footer-media a {
+    transform: scale(1)!important;
+}
+
+@media only screen and (max-width:396px) {
+    .container {
+        padding: 8px;
+    }
+}

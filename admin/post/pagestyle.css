@@ -1,0 +1,291 @@
+body {
+    font-family: Georgia, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 100;
+}
+
+.versionTable {
+    margin: 16px 0px;
+}
+
+.versionTable td,
+.versionTable th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px;
+}
+
+.versionTable td,
+.versionTable th {
+    padding: 12px;
+}
+
+.tabledata {
+    border-collapse: collapse;
+}
+
+.tabledata td,
+.tabledata th {
+    padding: 1.4em;
+    border: 1px solid #1e1e1e;
+    border-collapse: collapse;
+}
+
+.tabledata tr:nth-child(even) {
+    background-color: whitesmoke;
+}
+
+
+/*-------CodeWithTry--------*/
+
+.CodeWithTry,
+.CodeTitle h1,
+.CodeTitle p,
+.CodeArea,
+.Tryit,
+.Tryit a,
+.CodeWithoutTry,
+.CodeArea {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+}
+
+.CodeWithTry {
+    margin-left: 0px;
+    min-width: 100%;
+    min-height: 140px;
+    border: 1px solid rgba(0, 0, 0, .125);
+}
+
+.CodeTitle h1 {
+    padding-left: 12px;
+}
+
+.CodeTitle p {
+    padding-left: 12px;
+}
+
+.CodeArea {
+    margin: 12px 10px 12px 12px;
+    padding: 12px;
+    min-height: 50px;
+    background-color: white
+}
+
+.tryit a {
+    width: 160px;
+    padding: 12px 24px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: #246eb9;
+    position: relative;
+}
+
+.tryit a::after {
+    position: absolute;
+    margin-left: 8px;
+    content: '\00BB';
+}
+
+.codeSampleSyntax {
+    border: 1px solid rgba(0, 0, 0, .125);
+    margin: 8px 0px;
+    padding: 8px 6px;
+    position: relative;
+    overflow: hidden;
+}
+
+.samplearea {
+    padding: 12px;
+    min-height: 50px;
+    background-color: white;
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
+
+.samplearea p {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    word-break: normal;
+}
+
+.codeSample {
+    border: 1px solid rgba(0, 0, 0, .125);
+    margin: 8px 0px;
+    padding: 8px 6px;
+    position: relative;
+    overflow: hidden;
+}
+
+.codeSample::before {
+    content: "copy";
+    position: absolute;
+    top: -25px;
+    right: 60px;
+    color: thistle;
+    background-color: #3f4248;
+    padding: 2px 6px;
+    border-radius: 4px;
+    transition: ease-in 0.2s;
+}
+
+.codemirror-textarea {
+    background-color: red;
+    display: none;
+}
+
+
+/*---------CodeWithoutTry-------*/
+
+.CodeWithoutTry {
+    margin-left: 0px;
+    width: 100%;
+    min-height: 120px;
+    padding-bottom: 10px;
+    border: 1px solid rgba(0, 0, 0, .125);
+}
+
+.font {
+    color: pink;
+    font-size: 16px;
+}
+
+.pagelink {
+    color: #007b00;
+    text-decoration: black underline;
+}
+
+.pagelink:hover {
+    text-decoration: #db751a underline;
+    color: #db751a;
+}
+
+
+/*-----------copy img-------------*/
+
+.copyimg {
+    width: 25px;
+    height: 32px;
+    float: right;
+    margin-top: 2px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.expcopy {
+    background-color: #c8e2f0;
+    padding: 2px;
+    position: relative;
+    overflow: hidden;
+}
+
+.expcopy h1 {
+    margin-left: 5px;
+    display: inline;
+    color: pink;
+}
+
+.expcopy::after {
+    content: "copy";
+    position: absolute;
+    top: -25px;
+    right: 60px;
+    color: thistle;
+    background-color: #3f4248;
+    padding: 2px 6px;
+    border-radius: 4px;
+    transition: ease-in 0.2s;
+}
+
+.hrtl {
+    border: 1px solid blue;
+}
+
+
+/*----------------version table-------*/
+
+.versionTable,
+.versionTable tr,
+.versionTable td {
+    border: 1px solid #bdb8b8;
+    border-collapse: collapse;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 8px;
+}
+
+.versionTable .chrome {
+    background-image: url('../../image/chrome.png');
+}
+
+.versionTable .firefox {
+    background-image: url('../../image/firefox.png');
+}
+
+.versionTable .opera {
+    background-image: url('../../image/opera.png');
+}
+
+.versionTable .edge {
+    background-image: url('../../image/edge.png');
+}
+
+.versionTable .safari {
+    background-image: url('../../image/safari.png');
+}
+
+.expcopyS::after {
+    top: 8px;
+}
+
+.codeSampleS::before {
+    top: 7px;
+}
+
+.hcodes {
+    background: #dfe4ea;
+    padding: 6px 12px;
+    width: auto;
+    height: auto;
+}
+
+.textframe {
+    margin: 0!important;
+    padding: 0!important;
+    min-height: auto;
+}
+
+.textframe .CodeMirror {
+    background: #dfe4ea;
+}
+
+.imgBox {
+    user-select: auto;
+    width: auto;
+    height: auto;
+    max-width: 624px;
+    /* max-height: 302px; */
+    min-width: 29.9854px;
+    min-height: 20px;
+    box-sizing: border-box;
+}
+
+.imgBox img {
+    max-width: 100%;
+    height: auto;
+}
+
+.imgBox figcaption{
+    text-align:center;
+}
+.codes{
+  white-space: pre-line !important;
+}

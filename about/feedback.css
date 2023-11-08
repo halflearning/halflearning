@@ -1,0 +1,143 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&display=swap');*/
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Open-Sans';
+    src: url('../font/Open_Sans/OpenSans-Regular.ttf');
+    font-weight: 900;
+}
+
+.top {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    min-height: 100vh;
+    background-color: #dfe4ea;
+    font-family: 'Open-Sans';
+}
+
+.container {
+    margin: 12px;
+    padding: 18px;
+    position: relative;
+    border-radius: 2px;
+    background-color: white;
+}
+
+.category {
+    top: 60px;
+    position: sticky;
+    height: max-content;
+    width: 240px;
+    margin: 12px;
+    padding: 8px;
+    background-color: white;
+}
+
+.category h1 {
+    font-size: 24px;
+    background: cornflowerblue;
+    color: white;
+    padding: 6px 8px;
+}
+
+.category a {
+    border-left: 3px solid green;
+    display: block;
+    margin: 6px;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: black;
+    transition: letter-spacing 0.3s linear;
+}
+
+.category a:hover {
+    color: white;
+    background: green;
+    letter-spacing: 1px;
+}
+
+
+.success {
+    background-color: rgba(26, 84, 160, 0.555);
+    position: absolute;
+    padding: 4px 12px 2px 6px;
+    left: 100px;
+    bottom: 0;
+    display: none;
+}
+
+.success span {
+    color: white;
+}
+
+.top input {
+    border: none;
+    margin-left: 12px;
+    padding: 5px;
+}
+
+.detail {
+    padding: 8px;
+}
+
+.userDt {
+    width: 220px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 2px;
+    background: #353b48;
+}
+
+.userDt a {
+    color: white;
+}
+
+textarea {
+    padding: 12px;
+    width: 296px;
+    height: 143px;
+    resize: none;
+    font-family: sans-serif;
+    border: none;
+    border: 1px solid pink;
+}
+
+.sendMsg {
+    padding: 6px 18px;
+    border-radius: 2px;
+    border: none;
+    letter-spacing: 1px;
+    background-color: #4cd137;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.sendMsg:hover {
+    background: #44bd32;
+    padding-left: 22px;
+}
+
+.footer-media {
+    margin-left: 0!important;
+}
+
+.footer-media a {
+    transform: scale(1)!important;
+}
+
+@media only screen and (max-width:396px) {
+    .container {
+        padding: 8px;
+    }
+    .userDt {
+        width: 260px;
+    }
+}

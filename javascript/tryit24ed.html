@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from halflearning.com/javascript/tryit.php?page=javascript-string-slice-nagative by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Jul 2022 14:30:11 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>JavaScript string slice</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../tryit/index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&amp;family=Goldman&amp;family=Ubuntu:ital,wght@1,500&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../tryit/plugin/codemirror/lib/codemirror.css">
+    <link rel="stylesheet" href="../tryit/plugin/codemirror/theme/idea.css">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KZN6P7YLGE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KZN6P7YLGE');
+</script>
+
+</head>
+
+<body onmousedown="return false">
+    <header class="head">
+        <div class="name">
+            <a href="../index.html">
+                <h1><span class='blue'>halflearning</span><span class='tomato'>.com</span></h1>
+            </a>
+        </div>
+        <div class="advertisement"> Advertisement</div>
+    <style>
+
+.social-media {
+    margin-top: 6px;
+}
+
+.social-media a {
+    margin: 6px;
+    padding: 8px 12px;
+    font-size: 25px;
+    display: inline-block;
+    color: #ffffff;
+    transition:transform 0.1s linear;
+}
+.social-media a:hover{
+    transform:translateY(-5px);
+}
+.social-media a:nth-child(1) {
+    background-color: rgba(230, 41, 21, 0.9);
+}
+.social-media a:nth-child(2) {
+    background: rgb(18, 37, 143);
+}
+
+.social-media a:nth-child(3) {
+    background-color: rgb(29, 161, 242);
+}
+
+.social-media a:nth-child(4) {
+    background: rgb(242, 29, 100);
+}
+
+.social-media a:nth-child(5){
+    background: rgb(53, 11, 131);
+}
+
+.social-media a:nth-child(6):hover {
+    background: #e84118;
+}
+</style>
+<div class="social-media">
+       <a href="https://www.youtube.com/@halflearning" class="social-icon" target="_blank">
+           <i class="fa fa-youtube-play" aria-hidden="true"></i>
+       </a>
+     <a href="https://www.facebook.com/halflearning" class="social-icon" target="_blank">
+           <i class='fa fa-facebook'></i>
+       </a>
+       <a href="https://twitter.com/halflearning" class="social-icon" target="_blank">
+           <i class='fa fa-twitter'></i>
+       </a>
+       <a href="https://www.instagram.com/halflearning/" class="social-icon" target="_blank">
+           <i class="fa fa-instagram"></i>
+       </a>
+</div>    </header>
+
+    <div class="nav">
+        <div class="navBtn">
+            <a href="../index.html"><i class="fa fa-home fa-2x"></i></a>
+            <a href="javascript:void(0)" id="downloadBtn"><i class="fas fa-sd-card fa-2x"></i></a>
+            <a><i class="fas fa-sync-alt fa-2x"></i></a>
+            <a href="javascript:void(0)" id="coderunner"><span id="run">Run</span><i class="fa fa-angle-double-right fa-1x" id="runin"></i></a>
+        </div>
+        <div class="changeBackground">
+            <div class="bg">
+                <!--<div class="light_dark" id="dark_light"></div>-->
+                <div class="fas fa-sun" id="dark_light"></div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="main">
+            <div class="editor" id="editor" contenteditable="true">
+                <textarea class="codemirror-textarea"><html>
+  <head> 
+    <title> javascript string slice nagative </title>
+  </head>
+  <body>
+    <h1> javascript string slice nagative index</h1>
+    <p id=&#039demo&#039></p>
+    
+    <script>
+     var str = &#039John the Don&#039;
+     var substr = str.slice(-7); // &#039the Don&#039
+     //startIndex = str.length + index(negative)
+      
+      document.getElementById(&#039demo&#039).innerHTML = substr;
+    </script>
+    
+  </body>
+
+<!-- Mirrored from halflearning.com/javascript/tryit.php?page=javascript-string-slice-nagative by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Jul 2022 14:30:11 GMT -->
+</html> </textarea>
+            </div>
+            <div class="bar" id="bar"></div> 
+            <!-- <div class="window" id="window"></div> -->
+             <div id="windowbox" class="windowbox">
+                <iframe id="window" class="window" frameborder='0' allowfullscreen="true"></iframe>
+            </div>
+        </div>
+        <div id="back_print" class="back_print">
+            <button onclick="goback()">Go Back</button> <button onclick="printpage()">Print Page</button>
+            <style>
+.footer-media {
+    margin-top: 6px;
+    margin-left:220px;
+}
+.footer-media a{
+    text-decoration:none;
+    display:inline-block;
+    margin:6px ;
+   /* transform:scale(0.6);*/
+    transition:all 0.5s linear;
+}
+.footer-media a i{
+    padding: 5px 6px;
+    font-size: 20px;
+    display: inline-block;
+    color:white;
+    top: 1px;
+position: relative;
+}
+.footer-media a span{
+    text-decoration:none;
+    display:inline-block;
+    padding: 4px 6px 3px;
+    background:#dfe4ea;
+    color:black;
+    font-family: 'Open-Sans'
+}
+.footer-media a:hover{
+    letter-spacing:1px;
+}
+.footer-media a:nth-child(1) i {
+   background: linear-gradient(to top left, #ff9999 0%, #ff0000 100%);
+}
+.footer-media a:nth-child(2) i {
+    background: linear-gradient(to top left, #0066cc 0%, #000099 100%);
+}
+
+.footer-media a:nth-child(3) i {
+     background: linear-gradient(to top left, #33ccff 0%, #0033cc 100%);
+}
+
+.footer-media a:nth-child(4) i {
+    background: linear-gradient(to top left, #ff99cc 0%, #ff0066 100%);
+}
+
+.footer-media a:nth-child(5) i{
+    background: rgb(53, 11, 131);
+}
+
+.footer-media a:nth-child(6):hover {
+    background: #e84118;
+}
+</style>
+<div class="footer-media">
+        <a href="https://www.youtube.com/@halflearning" class="social-icon" target="_blank">
+           <i class="fa fa-youtube-play" aria-hidden="true"></i><span class='media-text'>YouTube</span>
+       </a>
+     <a href="https://www.facebook.com/halflearning" class="social-icon" title='facebook' target="_blank">
+           <i class='fa fa-facebook'></i><span class='media-text'>Facebook</span>
+       </a>
+       <a href="https://twitter.com/halflearning" class="social-icon" title='Twitter' target="_blank">
+           <i class='fa fa-twitter'></i><span class='media-text'>Twitter</span>
+       </a>
+       <a href="https://www.instagram.com/halflearning/" class="social-icon" title='Instagram' target="_blank">
+           <i class="fa fa-instagram"></i><span class='media-text'>Instagram</span>
+       </a>
+       <!-- <a href="https://linkedin.com" class="social-icon">
+           <i class='fa fa-linkedin'></i>
+       </a> 
+       <a href="">
+         <i class="fa fa-youtube" title='YouTube'></i><span>YouTube</span>
+         
+      </a> -->
+</div>        </div>
+    </div>
+    <script type="text/javascript" src="../tryit/index.js"></script> 
+    <script type="text/javascript" src="../tryit/plugin/codemirror/lib/codemirror.js"></script>
+    <script type="text/javascript" src="../tryit/plugin/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+    <script type="text/javascript" src="../tryit/plugin/codemirror/mode/javascript/javascript.js"></script>
+    <script type="text/javascript" src="../tryit/plugin/codemirror/mode/xml/xml.js"></script>
+    <script type="text/javascript" src="../tryit/plugin/codemirror/mode/css/css.js"></script> 
+    <script type="text/javascript" src="../tryit/js/defaultt.js"></script>
+</body>
+
+</html>

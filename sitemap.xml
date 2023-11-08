@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.halflearning.com/</loc>
+  <lastmod>2023-09-10T15:30:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/index.html</loc>
+  <lastmod>2023-09-10T15:30:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/about.html</loc>
+  <lastmod>2023-08-26T16:11:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/course-1.html</loc>
+  <lastmod>2023-08-26T16:13:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/course-2.html</loc>
+  <lastmod>2023-08-26T16:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/course-3.html</loc>
+  <lastmod>2023-08-26T16:13:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/Terminology.html</loc>
+  <lastmod>2023-08-26T16:14:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/blog.html</loc>
+  <lastmod>2023-08-26T16:12:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/contact.html</loc>
+  <lastmod>2023-08-26T16:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/</loc>
+  <lastmod>2023-09-10T15:24:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/</loc>
+  <lastmod>2023-09-10T15:20:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/</loc>
+  <lastmod>2023-09-10T15:47:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/</loc>
+  <lastmod>2023-09-10T15:30:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/</loc>
+  <lastmod>2023-09-10T15:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/Game/tic.html</loc>
+  <lastmod>2023-03-16T16:03:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/index.html</loc>
+  <lastmod>2023-09-10T15:24:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/index.html</loc>
+  <lastmod>2023-09-10T15:20:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/index.html</loc>
+  <lastmod>2023-09-10T15:47:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/index.html</loc>
+  <lastmod>2023-09-10T15:30:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/index.html</loc>
+  <lastmod>2023-09-10T15:13:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-heading.html</loc>
+  <lastmod>2023-09-10T15:23:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-paragraph.html</loc>
+  <lastmod>2023-09-10T15:24:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-css.html</loc>
+  <lastmod>2023-09-10T15:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-elements.html</loc>
+  <lastmod>2023-09-10T15:23:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-attribute.html</loc>
+  <lastmod>2023-09-10T15:22:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-formating.html</loc>
+  <lastmod>2023-09-10T15:23:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-title-tag.html</loc>
+  <lastmod>2023-09-10T15:24:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-span-tag.html</loc>
+  <lastmod>2023-09-10T15:24:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-body-tag.html</loc>
+  <lastmod>2023-09-10T15:22:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-div-tag.html</loc>
+  <lastmod>2023-09-10T15:23:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-input-tag.html</loc>
+  <lastmod>2023-09-10T15:24:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-comment.html</loc>
+  <lastmod>2023-09-10T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/html-anchor-tag.html</loc>
+  <lastmod>2023-09-10T15:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit45fc.html?page=html-create-page</loc>
+  <lastmod>2023-09-10T15:25:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/about/about.html</loc>
+  <lastmod>2022-11-06T10:16:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/about/feedback.html</loc>
+  <lastmod>2022-11-06T10:30:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/about/privacy.html</loc>
+  <lastmod>2022-11-06T10:33:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/about/contact.html</loc>
+  <lastmod>2022-11-06T10:18:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/css-inline.html</loc>
+  <lastmod>2023-09-10T15:20:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/css-internal.html</loc>
+  <lastmod>2023-09-10T15:20:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/css-external.html</loc>
+  <lastmod>2023-09-10T15:20:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/css-comment.html</loc>
+  <lastmod>2023-09-10T15:19:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/css-selector.html</loc>
+  <lastmod>2023-09-10T15:20:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/css/css-color.html</loc>
+  <lastmod>2023-09-10T15:19:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-introduction.html</loc>
+  <lastmod>2023-09-10T15:45:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-file-use.html</loc>
+  <lastmod>2023-09-10T15:45:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/Javascript-output-example.html</loc>
+  <lastmod>2023-09-10T15:45:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-comment.html</loc>
+  <lastmod>2023-09-10T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-variable.html</loc>
+  <lastmod>2023-09-10T15:43:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-operator.html</loc>
+  <lastmod>2023-09-10T15:45:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-console.html</loc>
+  <lastmod>2023-09-10T15:46:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-console-log.html</loc>
+  <lastmod>2023-09-10T15:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-string.html</loc>
+  <lastmod>2023-09-10T15:44:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-string-split.html</loc>
+  <lastmod>2023-09-10T15:44:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-slice-method.html</loc>
+  <lastmod>2023-09-10T15:45:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-trim-whitespace.html</loc>
+  <lastmod>2023-09-10T15:44:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-string-indexof-method.html</loc>
+  <lastmod>2023-09-10T15:44:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-string-lastIndexof-method.html</loc>
+  <lastmod>2023-09-10T15:44:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-date.html</loc>
+  <lastmod>2023-09-10T15:46:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-date-get-method.html</loc>
+  <lastmod>2023-09-10T15:46:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/javascript-conditional-statement.html</loc>
+  <lastmod>2023-09-10T15:47:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit3b2f.html?page=home-click-event</loc>
+  <lastmod>2023-09-10T15:42:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/jquery-syntax.html</loc>
+  <lastmod>2023-09-10T15:28:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/jquery-selector.html</loc>
+  <lastmod>2023-09-10T15:29:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/jquery-tag-name-selector.html</loc>
+  <lastmod>2023-09-10T15:28:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/jquery-class-selector.html</loc>
+  <lastmod>2023-09-10T15:29:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/jquery-id-selector.html</loc>
+  <lastmod>2023-09-10T15:29:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-introduction.html</loc>
+  <lastmod>2023-09-10T15:17:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-installation.html</loc>
+  <lastmod>2023-09-10T15:13:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-syntax.html</loc>
+  <lastmod>2023-09-10T15:18:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-variable.html</loc>
+  <lastmod>2023-09-10T15:18:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-comment.html</loc>
+  <lastmod>2023-09-10T15:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-echo-print.html</loc>
+  <lastmod>2023-09-10T15:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-data-types.html</loc>
+  <lastmod>2023-09-10T15:06:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/php/php-string-function.html</loc>
+  <lastmod>2023-09-10T15:18:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryitbe20.html?page=html-heading</loc>
+  <lastmod>2023-09-10T15:26:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit2c7d.html?page=heading-style</loc>
+  <lastmod>2023-09-10T15:25:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit5aca.html?page=html-paragraph-tag</loc>
+  <lastmod>2023-09-10T15:25:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit5bcd.html?page=paragraph-style-attribute</loc>
+  <lastmod>2023-09-10T15:25:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit5031.html?page=inline-css-single-property</loc>
+  <lastmod>2023-09-10T15:26:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit6219.html?page=inline-css-multiple-property</loc>
+  <lastmod>2023-09-10T15:26:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit79a1.html?page=inline-css-font-family-property</loc>
+  <lastmod>2023-09-10T15:25:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit8795.html?page=html-nested-element</loc>
+  <lastmod>2023-09-10T15:26:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryit484f.html?page=html-element-case-insensetive</loc>
+  <lastmod>2023-09-10T15:26:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/html/tryite49a.html?page=html-anchor-tag-blank</loc>
+  <lastmod>2023-09-10T15:26:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit0add.html?page=javascript-console-log-try</loc>
+  <lastmod>2023-09-10T15:43:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit0d97.html?page=console-log-object-example</loc>
+  <lastmod>2023-09-10T15:43:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit8293.html?page=console-log-array-example</loc>
+  <lastmod>2023-09-10T15:34:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit3a11.html?page=console-log-debuggin</loc>
+  <lastmod>2023-09-10T15:42:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit5784.html?page=javascript-string-concatination</loc>
+  <lastmod>2023-09-10T15:34:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit1a98.html?page=javascript-string-string-literal</loc>
+  <lastmod>2023-09-10T15:42:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit0ca4.html?page=javascript-string-funtion</loc>
+  <lastmod>2023-09-10T15:43:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit7b3c.html?page=javascript-string-toString-function</loc>
+  <lastmod>2023-09-10T15:41:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit100f.html?page=javascript-string-string-object</loc>
+  <lastmod>2023-09-10T15:37:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit8778.html?page=javascript-string-string-split</loc>
+  <lastmod>2023-09-10T15:34:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit3157.html?page=javascript-string-split</loc>
+  <lastmod>2023-09-10T15:35:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitf2c0.html?page=javascript-string-reverse-join</loc>
+  <lastmod>2023-09-10T15:31:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitba28.html?page=javascript-string-slice-method</loc>
+  <lastmod>2023-09-10T15:33:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit0bbd.html?page=javascript-string-slice-positive-index</loc>
+  <lastmod>2023-09-10T15:43:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit24ed.html?page=javascript-string-slice-nagative</loc>
+  <lastmod>2023-09-10T15:39:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit0358.html?page=javascript-string-slice-negative-endindex</loc>
+  <lastmod>2023-09-10T15:37:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit9638.html?page=javascript-string-slice-endindex-less-than-startindex</loc>
+  <lastmod>2023-09-10T15:34:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit3907.html?page=javascript-trim-whitespace</loc>
+  <lastmod>2023-09-10T15:35:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit8d07.html?page=javascript-trim-left-whitespace</loc>
+  <lastmod>2023-09-10T15:40:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit6f56.html?page=javascript-trim-right-whitespace</loc>
+  <lastmod>2023-09-10T15:41:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit71ff.html?page=javascript-string-indexof-method-example</loc>
+  <lastmod>2023-09-10T15:38:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitbf0e.html?page=javascript-string-indexof-method-first-searchValue</loc>
+  <lastmod>2023-09-10T15:32:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitb46d.html?page=javascript-string-indexof-with-second-parameter</loc>
+  <lastmod>2023-09-10T15:33:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit8c6f.html?page=javascript-string-case-sensetive-indexof-method</loc>
+  <lastmod>2023-09-10T15:41:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitd1b0.html?page=javascript-string-lastIndexOf-example</loc>
+  <lastmod>2023-09-10T15:32:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit3bdb.html?page=javascript-string-lastIndexOf-fromIndex</loc>
+  <lastmod>2023-09-10T15:42:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit8fdc.html?page=javascript-lastIndexOf-method-case-sensetive</loc>
+  <lastmod>2023-09-10T15:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit23b4.html?page=javascript-date-object</loc>
+  <lastmod>2023-09-10T15:39:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit90da.html?page=javascript-date-parameter-1</loc>
+  <lastmod>2023-09-10T15:37:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitc6e1.html?page=javascript-date-parameter-2</loc>
+  <lastmod>2023-09-10T15:32:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit871a.html?page=javascript-date-parameter-3</loc>
+  <lastmod>2023-09-10T15:36:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit5771.html?page=javascript-date-parameter-4</loc>
+  <lastmod>2023-09-10T15:35:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit90da-2.html?page=javascript-date-getMethod</loc>
+  <lastmod>2023-09-10T15:38:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitd483.html?page=javascript-date-getDayMethod</loc>
+  <lastmod>2023-09-10T15:32:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit4602.html?page=javascript-date-getMonthMethod</loc>
+  <lastmod>2023-09-10T15:35:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit6330.html?page=javascript-date-getFullYearMethod</loc>
+  <lastmod>2023-09-10T15:34:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit54bf.html?page=javascript-date-getHoursMethod</loc>
+  <lastmod>2023-09-10T15:38:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit8d4d.html?page=javascript-date-getMinutesMethod</loc>
+  <lastmod>2023-09-10T15:41:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryit18f6.html?page=javascript-date-getSecondMethod</loc>
+  <lastmod>2023-09-10T15:39:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitb4bc.html?page=javascript-date-getMillisecond-method</loc>
+  <lastmod>2023-09-10T15:33:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitf211.html?page=javascript-date-getTimeMethod</loc>
+  <lastmod>2023-09-10T15:31:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitb772.html?page=javascript-date-getTimeZoneOffset-method</loc>
+  <lastmod>2023-09-10T15:33:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitf2a9.html?page=if-else-statement</loc>
+  <lastmod>2023-09-10T15:31:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryite257.html?page=if-else-and-elseif-statement</loc>
+  <lastmod>2023-09-10T15:32:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitfce3.html?page=true</loc>
+  <lastmod>2023-09-10T15:31:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitfd63.html?page=inner-ternary-operator</loc>
+  <lastmod>2023-09-10T15:31:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/javascript/tryitd268.html?page=switch-statement</loc>
+  <lastmod>2023-09-10T15:32:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/tryit05da.html?page=jquery-id-selector</loc>
+  <lastmod>2023-09-10T15:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/tryit7f51.html?page=jquery-change-style</loc>
+  <lastmod>2023-09-10T15:28:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.halflearning.com/jquery/tryit3323.html?page=jquery-id-multy-css-property</loc>
+  <lastmod>2023-09-10T15:28:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

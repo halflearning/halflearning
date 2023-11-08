@@ -1,0 +1,21 @@
+.pnBox {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.preBtn,
+.nextBtn {
+    display: inline-block;
+    padding: 6px 10px;
+    color: white;
+    text-decoration: none;
+    margin: 0 18px;
+    background-color: #2670f4;
+    /*background:#000066ed;*/
+}
+
+.preBtn:hover,
+.nextBtn:hover {
+    background-color:#4181f4;
+}

@@ -1,0 +1,21 @@
+.rightads1 a {
+    position: relative;
+}
+
+.rightads1 a:hover span {
+    bottom: 50px;
+}
+
+.rightads1 a span {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    display: block;
+    border-radius: 6px;
+    letter-spacing: 1px;
+    padding: 8px 16px;
+    transition: all 0.2s linear;
+    background-color:#00bb00;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>404-Error</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/error-page.css">
+        <script src="../admin/jquery/jquery.js"></script> 
+    </head>
+    <body>
+        <div class="top">
+            <h1>Sorry</h1>
+            <h1>404 - Page not fond</h1>
+        </div>
+        <div class="bottom">
+                <p>This type of page not fond this Domain Name</p>
+                <p>Please check website url address</p>
+                <p>Or this page  temporarily unavailable</p>
+               <button class="back-history">Go Back</button>
+        </div>
+        <script>
+            $(document).ready(function(){
+                $(".back-history").click(function(){
+                   history.back(1);
+                })
+            });
+        </script>
+    </body>
+</html>

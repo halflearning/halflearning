@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+ <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>About Us</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Goldman&family=Ubuntu:ital,wght@1,500&display=swap" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="headerbar.css">
+        <link rel="stylesheet" href="footer.css">
+        <link rel='stylesheet' href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <style type="text/css">
+       /* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&display=swap');*/
+        
+       *{
+            margin:0;
+            padding:0;
+            box-sizing: border-box;
+            outline:none;
+        }
+        @font-face {
+            font-family: 'Open-Sans';
+            src: url('/font/Open_Sans/OpenSans-Regular.ttf');
+            font-weight: 900;
+        }
+        section{
+                display:grid;
+                grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+                min-height: 100vh;
+                background-color: #dfe4ea;
+                 font-family: 'Open-Sans';
+
+        }
+        .about{
+            margin:12px;
+            padding:18px;
+            background:white;
+
+        }
+   .category{
+       top:60px;
+       position:sticky;
+       height:max-content;
+       width:240px;
+       margin:12px;
+       padding:8px;
+       background:white;
+   }
+   .category h1 {
+    background: cornflowerblue;
+    color: white;
+    padding: 6px 8px;
+}
+   .category a {
+    border-left: 3px solid green;
+    display: block;
+    margin: 6px;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: black;
+    transition: letter-spacing 0.3s linear;
+}
+
+.category a:hover {
+    color: white;
+    background: green;
+    letter-spacing:1px;
+}
+   .footer-media{
+       margin-left:0!important;
+   }
+   .footer-media a{
+       transform:scale(1)!important;
+   }
+        </style>
+    </head>
+    <body>
+    <style>
+
+
+.social-media {
+    margin-top: 6px;
+}
+
+.social-media a {
+    margin: 6px;
+    padding: 8px 12px;
+    font-size: 25px;
+    display: inline-block;
+    color: #ffffff;
+    transition:transform 0.1s linear;
+}
+.social-media a:hover{
+    transform:translateY(-5px);
+}
+.social-media a:nth-child(1) {
+    background: rgb(18, 37, 143);
+}
+
+.social-media a:nth-child(2) {
+    background-color: rgb(29, 161, 242);
+}
+
+.social-media a:nth-child(3) {
+    background: rgb(242, 29, 100);
+}
+
+.social-media a:nth-child(4){
+    background: rgb(53, 11, 131);
+}
+
+.social-media a:nth-child(5):hover {
+    background: #e84118;
+}
+
+
+</style>
+<style>
+
+.social-media {
+    margin-top: 6px;
+}
+
+.social-media a {
+    margin: 6px;
+    padding: 8px 12px;
+    font-size: 25px;
+    display: inline-block;
+    color: #ffffff;
+    transition:transform 0.1s linear;
+}
+.social-media a:hover{
+    transform:translateY(-5px);
+}
+.social-media a:nth-child(1) {
+    background-color: rgba(230, 41, 21, 0.9);
+}
+.social-media a:nth-child(2) {
+    background: rgb(18, 37, 143);
+}
+
+.social-media a:nth-child(3) {
+    background-color: rgb(29, 161, 242);
+}
+
+.social-media a:nth-child(4) {
+    background: rgb(242, 29, 100);
+}
+
+.social-media a:nth-child(5){
+    background: rgb(53, 11, 131);
+}
+
+.social-media a:nth-child(6):hover {
+    background: #e84118;
+}
+</style>
+<div class="social-media">
+       <a href="https://www.youtube.com/channel/@halflearning" class="social-icon" target="_blank">
+           <i class="fa fa-youtube-play" aria-hidden="true"></i>
+       </a>
+     <a href="https://www.facebook.com/halflearning" class="social-icon" target="_blank">
+           <i class='fa fa-facebook'></i>
+       </a>
+       <a href="https://twitter.com/halflearning" class="social-icon" target="_blank">
+           <i class='fa fa-twitter'></i>
+       </a>
+       <a href="https://www.instagram.com/halflearning/" class="social-icon" target="_blank">
+           <i class="fa fa-instagram"></i>
+       </a>
+</div>
+<header id="head"><a href="http://halflearning.com/"><h1><span class="headred">half</span><span class="headred">learning</span><span class="green">.com</span></h1></a>
+        </header>
+       <nav id="nav" class="nav">
+           <a href="javascript:void(0)" class="bars"><i class="fa fa-bars"></i></a> 
+           <a href="../" class="home"><i class="fa fa-home fa-lg"></i></a><!--
+    --><a class="tutorial">TUTORIAL </a>
+             <div id="Dropdown" class="dropdown-content">
+                <a href="/html">HTML</a>
+                                <!--<a href="/bootTraffic">BOOTTRAFFIC</a>-->
+                                <a href="/css">CSS</a>
+                                <a href="/javascript">JAVASCRIPT</a>
+                                <a href="/jquery">JQUERY</a>
+                                <a href="/php">PHP</a>
+                              </div> 
+           <a href="/html" class="html" onclick="myFunction()">HTML</a><!-- 
+        --><a href="/css" class="css">CSS</a><!--
+    --><a href="/javascript" class="js">JAVASCRIPT</a><!--
+    --><a href="/jquery" class="jquery">JQUERY</a><!--
+     <a href="/ajax" class="ajax">AJAX</a> 
+    --><a href="/php" class="php">PHP</a>
+        <!-- <a href="/mysql" class="sql">SQL</a> -->  
+                <form>
+                        <span id="show_search"><i class="fa fa-search-plus"></i></span>
+                        <div class="gcse-search"></div>
+               </form>  
+       </nav>
+                <section>
+        <div class='about'>
+            <h2>About Us </h2>
+            <p>halflearning provide Online web Tutorial for web developer And prefer to learn new technology . All Web Tutorial concepts with examples </p>
+            <p>Web Tutorial are free to learn and with some new technologies </p>
+            <p>fast2learning also provide fast learning technique</p>
+            <p> For more information about me contact this Email -info@halflearning.com </p>
+            <h2>Mission</h2>
+            <p>Our mission is to deliver Simply Easy Learning with clear concepts and new technologies of web development and  share all information of web techology </p>
+        </div>
+        <div class="category">
+            <h1>Web Development</h1>
+            <a href="/html">HTML</a>
+            <a href="/css">CSS</a>
+            <a href="/javascript">JavaScript</a>
+            <a href="/jquery">jQuery</a>
+            <a href="/php">PHP</a>
+        </div>
+ </section>
+ <style>
+.footer-media {
+    margin-top: 6px;
+    margin-left:220px;
+}
+.footer-media a{
+    text-decoration:none;
+    display:inline-block;
+    margin:6px ;
+   /* transform:scale(0.6);*/
+    transition:all 0.5s linear;
+}
+.footer-media a i{
+    padding: 5px 6px;
+    font-size: 20px;
+    display: inline-block;
+    color:white;
+    top: 1px;
+position: relative;
+}
+.footer-media a span{
+    text-decoration:none;
+    display:inline-block;
+    padding: 4px 6px 3px;
+    background:#dfe4ea;
+    color:black;
+    font-family: 'Open-Sans'
+}
+.footer-media a:hover{
+    letter-spacing:1px;
+}
+.footer-media a:nth-child(1) i {
+   background: linear-gradient(to top left, #ff9999 0%, #ff0000 100%);
+}
+.footer-media a:nth-child(2) i {
+    background: linear-gradient(to top left, #0066cc 0%, #000099 100%);
+}
+
+.footer-media a:nth-child(3) i {
+     background: linear-gradient(to top left, #33ccff 0%, #0033cc 100%);
+}
+
+.footer-media a:nth-child(4) i {
+    background: linear-gradient(to top left, #ff99cc 0%, #ff0066 100%);
+}
+
+.footer-media a:nth-child(5) i{
+    background: rgb(53, 11, 131);
+}
+
+.footer-media a:nth-child(6):hover {
+    background: #e84118;
+}
+</style>
+<div class="footer-media">
+        <a href="https://www.youtube.com/channel/@halflearning" class="social-icon" target="_blank">
+           <i class="fa fa-youtube-play" aria-hidden="true"></i><span class='media-text'>YouTube</span>
+       </a>
+     <a href="https://www.facebook.com/halflearning" class="social-icon" title='facebook' target="_blank">
+           <i class='fa fa-facebook'></i><span class='media-text'>Facebook</span>
+       </a>
+       <a href="https://twitter.com/halflearning" class="social-icon" title='Twitter' target="_blank">
+           <i class='fa fa-twitter'></i><span class='media-text'>Twitter</span>
+       </a>
+       <a href="https://www.instagram.com/halflearning/" class="social-icon" title='Instagram' target="_blank">
+           <i class="fa fa-instagram"></i><span class='media-text'>Instagram</span>
+       </a>
+       <!-- <a href="https://linkedin.com" class="social-icon">
+           <i class='fa fa-linkedin'></i>
+       </a> 
+       <a href="">
+         <i class="fa fa-youtube" title='YouTube'></i><span>YouTube</span>
+         
+      </a> -->
+</div> <footer>
+  <div class="footer-image">
+     <a href="https://www.halflearning.com" class="super-a" id="footer-logo"><img src="/no-trans-logo.png" alt="halflearning">halflearning</a>       
+  </div> 
+     <div class="footer-about">       
+     <a href="/about/about.html">About</a>
+     <a href="/about/feedback.html">Feedback</a>
+     <a href="/about/privacy.html">Privacy Policy</a>
+     <a href="/about/contact.html">Contact Us</a>
+     <a href="javascript:void(0)">&copy; Copyright 2020 . All Rights Reserved</a>
+     <a href="javascript:void(0)">version 1.0.0.3 </a>
+  </div>
+</footer>
+<script async src="https://cse.google.com/cse.js?cx=e1a7aeff005c1bac5"></script> <script>
+    document.body.onload=function(){
+        document.getElementsByClassName('social-media')[0].style.transform='scale(1)';
+        }
+</script>
+    <script src="headerbar.js"></script>
+    </body>
+
+</html>
